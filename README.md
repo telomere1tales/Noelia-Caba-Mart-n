@@ -75,7 +75,7 @@ Machine learning project focused on predicting patient readmission risk.
 ## 📫 Contact
 
 - LinkedIn: (añádelo aquí)
-- Email: (opcional)
+- Email: noe.caba.martin@gmail.com
 
 ---
 
